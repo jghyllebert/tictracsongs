@@ -25,5 +25,5 @@ Run the script ``python activity.py lastfm_username``
 
 Dependencies
 ------------
-requests (2.4.0) - http://docs.python-requests.org/en/latest/
-colorama (0.3.1) - https://pypi.python.org/pypi/colorama
+* requests (2.4.0) - http://docs.python-requests.org/en/latest/
+* colorama (0.3.1) - https://pypi.python.org/pypi/colorama
